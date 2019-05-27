@@ -4,7 +4,5 @@ using System.Text;
 
 namespace Humans_and_Zombies
 {
-    class CardinalPoints
-    {
-    }
+    public enum cardinalPoints { North, South, West, East };
 }
